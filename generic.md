@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generic
+title: How Financial Technology Disrupted the Industry
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
 nav-menu: true
