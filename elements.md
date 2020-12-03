@@ -22,10 +22,6 @@ nav-menu: true
 
 <p>The development of cryptocurrencies was also made possible through fintech. Bitcoin is the prime example of a digital asset that is based on a decentralized structure through blockchain.</p>
 
-<h2>History of Financial Technology</h2>
-<p><span class="image left"><img src="{% link assets/images/pic09.jpg %}" alt="" /></span>Started in 1866 by the first transatlantic cable laid for financial globalization, financial technology has drastically evolved over the years. Giovanni Caselli was one of the first few inventors who made banking transactions develop into more accessible, quick, and easier steps when he created the pantelegraph to verify these very transactions. After these developments sparked innovations and ideas as to how banking could be made easier, the rest was history. However, the term financial technology wasn’t coined until 127 years after it was developed. The true evolution of technology in the finances department began in the 1950s when the automated teller machine and the credit card were born. Nowadays, faster transactions are made possible even with just a click on your mobile phone. Other companies have even made it more accessible by creating different mobile applications for on-the-go cashless transactions. All the way from Fintech 1.0, many countries have further developed their technology to come to where we are now, Fintech 3.5!</p>
-
-
 </div>
 </section>
 
