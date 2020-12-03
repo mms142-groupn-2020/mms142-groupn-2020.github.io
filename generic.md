@@ -1,7 +1,7 @@
 ---
 layout: post
 title: History
-description: Learn about the history of financial technology
+description: Know about the history of financial technology
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
