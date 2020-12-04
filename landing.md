@@ -1,7 +1,7 @@
 ---
 title: Services
 layout: landing
-description: 'How financial technology disrupted the ecosystem of financial services'
+description: 'How financial technology disrupted<br />the ecosystem of financial services'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
