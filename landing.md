@@ -1,7 +1,7 @@
 ---
 title: Services
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'How financial technology disrupted the ecosystem of financial services'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
