@@ -22,14 +22,6 @@ nav-menu: true
 
 <p>The development of cryptocurrencies was also made possible through fintech. Bitcoin is the prime example of a digital asset that is based on a decentralized structure through blockchain.</p>
 
-</div>
-</section>
-
-<!-- Two -->
-<section id="two">
-	<div class="inner">
-	
-<!-- Content -->
 <h2 id="content">How did Financial Technology Disrupt the Industry?</h2>
 <p>Financial technology, or more widely known as fintech, refers to the emerging technology that looks to revolutionize financial services through automation and improvement of its usage and delivery. In a nutshell, it is the synergy of financial services and information technology. Fintech is used by consumers, companies, business owners, developers, and start-ups to help manage the different financial processes and operations through the use of specific algorithms and software. The use of fintech is not only limited to desktop computers but also on mobile devices such as tablets and smartphones where users can do trading, banking, investing, and delve into cryptocurrencies. Fintech aims to make the different financial services available, to be accessible to everyone.</p>
 
