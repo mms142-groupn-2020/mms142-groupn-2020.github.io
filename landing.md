@@ -41,7 +41,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Crowdfunding</h3>
 				</header>
-				<p>Crowdfunding services and platforms are identical to payment services with slight differences because crowdfunding services and platforms are meant to deal with a larger audience and number of people transferring or pooling a certain amount of money to one person or account all at the same time.</p>
+				<p>Crowdfunding services and platforms are intrinsically similar to payment services with one major difference being that crowdfunding is, in essence, a process in which individuals or groups pool money or other resources to fund projects and causes initiated by other people and organizations.</p>
 			</div>
 		</div>
 	</section>
