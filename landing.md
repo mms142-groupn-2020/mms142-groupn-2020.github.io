@@ -52,9 +52,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Blockchain or Cryptocurrency</h3>
+					<h3>Blockchain and Cryptocurrency</h3>
 				</header>
-				<p>Cryptocurrency refers to a variety of digital or virtual currency, and blockchain is a type of technology employed by the cryptocurrency industry.</p>
+				<p>Cryptocurrency refers to a variety of digital or virtual currencies such as Bitcoin. Blockchain, on the other hand, is a technology that forms the bedrock for cryptocurrencies.</p>
 			</div>
 		</div>
 	</section>
