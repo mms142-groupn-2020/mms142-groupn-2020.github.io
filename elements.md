@@ -22,7 +22,7 @@ nav-menu: true
 
 <p>The development of cryptocurrencies was also made possible through fintech. Bitcoin is the prime example of a digital asset that is based on a decentralized structure through blockchain.</p>
 
-<h2 id="content">How did Financial Technology Disrupt the Industry?</h2>
+<h2 id="content">How did Financial Technology Disrupt Financial Services?</h2>
 <p>Financial technology, in essence, changed the way we can access our finances, and it has since grown to encompass a plethora of other applications that are more consumer-focused. At present, it is already possible to manage funds, trade stocks, pay for food, or manage insurance through this technology. The notion of providing excellent customer service to a multitude of people all at the same time without having to spend so many hours in the queue and with the help of technological advancements like artificial intelligence (AI) makes fintech a cutting-edge innovation—one that is several steps ahead of traditional banking. Fund transfers and online remittance tools, mobile wallets, online payments, platforms for shopping, insurance aggregators, automated investment management advisors, peer-to-peer (P2P) lending and crowdfunding tools, financial assets, and trading platforms are just some of the many optimizations that fintech has made possible.</p>
 
 <p>On the downside, the threat to privacy and security makes fintech unsatisfactory to its users and many would still prefer traditional banking or face-to-face transactions even as fintech guarantees convenience. Regardless of several threats and disadvantages, there is still no doubt that fintech made a lasting impact on the financial industry.</p>
