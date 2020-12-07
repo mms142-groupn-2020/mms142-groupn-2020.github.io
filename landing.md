@@ -57,4 +57,17 @@ nav-menu: true
 				<p>Cryptocurrency refers to a variety of digital or virtual currency, and blockchain is a type of technology employed by the cryptocurrency industry.</p>
 			</div>
 		</div>
-	</section>	
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Investment/Trading and Insurance/Robo-advising/Risk Management</h3>
+				</header>
+				<p>Investment, Trading, Insurance, Advising, and Risk management are all very different types of financial activities but are commonly grouped because of the tasks they perform and the scope they cover. These include stocks and trading patterns, data analysis for investment, and machine learning for risk management and advising.</p>
+			</div>
+		</div>
+	</section>
