@@ -13,7 +13,7 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<p>Fintech has been around for quite some time now, and it is rapidly growing over the past few years, as seen on many of the technologies, platforms, and services that we use today. It is an innovative technology designed to compete with the brick and mortar financial industry and improve the facilitation of various monetary activities across multiple sectors and areas. There are many services confined within FinTech that can fall under different and multiple financial areas.</p>
+		<p>Fintech has been around for quite some time now, and it is rapidly growing over the past few years, as seen on many of the technologies, platforms, and services that we use today. It is an innovative technology designed to compete with the brick-and-mortar financial industry and improve the facilitation of various monetary activities across multiple sectors and areas. There are many services made possible by fintech that fall under multiple sectors in the ecosystem of financial services.</p>
 	</div>
 </section>
 
@@ -26,9 +26,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Banking or Payment Services</h3>
+					<h3>Banking and Payment</h3>
 				</header>
-				<p>Banking and Payment Services is one of the most popular and widely used fintech today. With the mobility and convenience it offers, many people today prefer entrusting their money within digital banks or brick and mortar banks with smooth and seamless digital banking applications. These services facilitate storing and moving money across different platforms, as well as savings and budgeting.</p>
+				<p>Banking and payment services is one of the most popular and widely used fintech today. With the mobility and convenience it offers, many people today prefer entrusting their money within digital banks or brick and mortar banks with smooth and seamless digital banking applications. These services facilitate storing and moving money across different platforms, as well as savings and budgeting.</p>
 			</div>
 		</div>
 	</section>
@@ -39,7 +39,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Crowdfunding Services/Platforms</h3>
+					<h3>Crowdfunding</h3>
 				</header>
 				<p>Crowdfunding services and platforms are identical to payment services with slight differences because crowdfunding services and platforms are meant to deal with a larger audience and number of people transferring or pooling a certain amount of money to one person or account all at the same time.</p>
 			</div>
@@ -52,7 +52,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Blockchain/Cryptocurrency</h3>
+					<h3>Blockchain or Cryptocurrency</h3>
 				</header>
 				<p>Cryptocurrency refers to a variety of digital or virtual currency, and blockchain is a type of technology employed by the cryptocurrency industry.</p>
 			</div>
@@ -65,9 +65,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Investment/Trading and Insurance/Robo-advising/Risk Management</h3>
+					<h3>Investment, Trading, Insurance and Risk Management</h3>
 				</header>
-				<p>Investment, Trading, Insurance, Advising, and Risk management are all very different types of financial activities but are commonly grouped because of the tasks they perform and the scope they cover. These include stocks and trading patterns, data analysis for investment, and machine learning for risk management and advising.</p>
+				<p>Investment, trading, insurance, robo-advising, and risk management are all very different types of financial activities but are closely related to each other in a variety of ways. These include stocks and trading patterns, data analysis for investment, and machine learning for risk management and advising.</p>
 			</div>
 		</div>
 	</section>
@@ -78,7 +78,7 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Lending/Borrowing</h3>
+					<h3>Lending</h3>
 				</header>
 				<p>Fintech focusing on lending and borrowing services aims to improve the traditional and "outdated" system and processes of money-lending offered by institutional entities like banks. They offer streamlined, structured, and cost-effective lending and borrowing processes.</p>
 			</div>
