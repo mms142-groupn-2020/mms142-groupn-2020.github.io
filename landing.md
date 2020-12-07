@@ -71,3 +71,16 @@ nav-menu: true
 			</div>
 		</div>
 	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Lending/Borrowing</h3>
+				</header>
+				<p>Fintech focusing on lending and borrowing services aims to improve the traditional and "outdated" system and processes of money-lending offered by institutional entities like banks. They offer streamlined, structured, and cost-effective lending and borrowing processes.</p>
+			</div>
+		</div>
+	</section>
