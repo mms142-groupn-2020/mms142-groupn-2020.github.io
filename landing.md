@@ -67,7 +67,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Investment, Trading, Insurance and Risk Management</h3>
 				</header>
-				<p>Investment, trading, insurance, robo-advising, and risk management are all very different types of financial activities but are closely related to each other in a variety of ways. These include stocks and trading patterns, data analysis for investment, and machine learning for risk management and advising.</p>
+				<p>Investment, trading, insurance, robo-advising, and risk management are all very different types of financial activities but are closely related to each other in many ways. These include stocks and trading patterns, data analysis for investment, and machine learning for risk management and advising.</p>
 			</div>
 		</div>
 	</section>
