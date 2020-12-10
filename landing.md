@@ -28,7 +28,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Banking and Payment</h3>
 				</header>
-				<p>Banking and payment services are among the most popular and widely used fintech today. With the mobility and convenience that fintech offers, many people today prefer entrusting their money within digital banks or brick and mortar banks with smooth and seamless digital banking applications. These services facilitate storing and moving money across different platforms, as well as savings and budgeting.</p>
+				<p>Banking and payment services are among the most popular and widely used fintech today. With the mobility and convenience that fintech offers, many people today prefer entrusting their money within digital banks or brick-and-mortar banks with smooth and seamless digital banking applications. These services facilitate storing and moving money across different platforms, as well as savings and budgeting.</p>
 			</div>
 		</div>
 	</section>
