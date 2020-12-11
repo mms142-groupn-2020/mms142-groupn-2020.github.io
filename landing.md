@@ -41,7 +41,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Crowdfunding</h3>
 				</header>
-				<p>Crowdfunding services and platforms are intrinsically similar to payment services with one major difference being that crowdfunding is, in essence, a process in which individuals or groups pool money or other resources to fund projects and causes initiated by other people and organizations. Crowdfunding is drastically changing how entrepreneurs bring new products to the market. It has helped thousands of individuals to raise money and launch products successfully.</p>
+				<p>Crowdfunding services and platforms are intrinsically similar to payment services with one major difference being that crowdfunding is, in essence, a process in which individuals or groups pool money or other resources to fund projects and causes initiated by other people and organizations. Crowdfunding is drastically changing how entrepreneurs bring new products to the market. It has helped thousands of individuals to raise money and launch products or projects successfully.</p>
 			</div>
 		</div>
 	</section>
