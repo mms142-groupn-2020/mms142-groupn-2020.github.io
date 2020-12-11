@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Financial Technology
-image: assets/images/pic11.jpg
+image: assets/images/pic01.jpg
 nav-menu: true
 ---
 
