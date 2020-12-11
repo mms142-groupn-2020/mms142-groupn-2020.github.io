@@ -41,7 +41,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Crowdfunding</h3>
 				</header>
-				<p>Crowdfunding services and platforms are intrinsically similar to payment services with one major difference being that crowdfunding is, in essence, a process in which individuals or groups pool money or other resources to fund projects and causes initiated by other people and organizations.</p>
+				<p>Crowdfunding services and platforms are intrinsically similar to payment services with one major difference being that crowdfunding is, in essence, a process in which individuals or groups pool money or other resources to fund projects and causes initiated by other people and organizations. Crowdfunding is drastically changing how entrepreneurs bring new products to the market. It has helped thousands of individuals to raise money and launch products successfully.</p>
 			</div>
 		</div>
 	</section>
@@ -54,7 +54,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Blockchain and Cryptocurrency</h3>
 				</header>
-				<p>Cryptocurrency refers to a variety of digital or virtual currencies such as Bitcoin. Blockchain, on the other hand, is a technology that forms the bedrock for cryptocurrencies.</p>
+				<p>Cryptocurrency refers to a variety of digital or virtual currencies such as Bitcoin. Blockchain, on the other hand, is a technology that forms the bedrock for cryptocurrencies. Digital money may not be a substitute for real currency, but it can become an impetus for the formation of a new currency system through which underdeveloped countries have a greater chance of participating in financial transactions and boost their own economy and social prospects.</p>
 			</div>
 		</div>
 	</section>
@@ -67,7 +67,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Investment, Trading, Insurance and Risk Management</h3>
 				</header>
-				<p>Investment, trading, insurance, robo-advising, and risk management are all very different types of financial activities but are closely related to each other in many ways. These include stocks and trading patterns, data analysis for investment, and machine learning for risk management and advising.</p>
+				<p>Investment, trading, insurance, robo-advising, and risk management may all be very different types of financial activities, but they are essentially related to each other in complex ways. These include stocks and trading patterns, data analysis for investment, and machine learning for risk management and advising. Robo-advisors, for instance, are digital platforms that provide automated, algorithm-driven investment services.</p>
 			</div>
 		</div>
 	</section>
