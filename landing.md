@@ -54,7 +54,7 @@ nav-menu: true
 				<header class="major">
 					<h3>Blockchain and Cryptocurrency</h3>
 				</header>
-				<p>Cryptocurrency refers to a variety of digital or virtual currencies such as Bitcoin. Blockchain, on the other hand, is a technology that forms the bedrock for cryptocurrencies. Digital money may not be a substitute for real currency, but it can become an impetus for the formation of a new currency system through which underdeveloped countries have a greater chance of participating in financial transactions and boost their own economy and social prospects.</p>
+				<p>Cryptocurrency refers to a variety of digital or virtual currencies such as Bitcoin. Blockchain, on the other hand, is a technology that forms the bedrock for cryptocurrencies. Digital money may not be a substitute for real currency, but it can become an impetus for the formation of a new currency system through which underdeveloped countries have a greater chance of participating in financial transactions and boost their own economic and social prospects.</p>
 			</div>
 		</div>
 	</section>
