@@ -1,6 +1,6 @@
 # Group N - Financial Technology
 
-This website is a quick overview of how financial technology came to dominate and disrupt the industry with clever and quickly-advancing innovations. Go through the site with ease as the homepage delivers three main topics that delve deeper into the subject: how financial technology disrupted the industry, the history and evolution of financial technology, and an up-to-date overview of the services offered.
+This website is a quick overview of how financial technology came to dominate and disrupt the industry with clever and quickly-advancing innovations. Go through the site with ease as the homepage presents three main topics that delve deeper into the subject: how financial technology disrupted the industry, the history and evolution of financial technology, and an up-to-date overview of the services offered.
 
 This website was created by Group N in partial fulfillment of the requirements for MMS 142 (Internet Technologies and Web Development) and the following are the participating members of the group:
 
