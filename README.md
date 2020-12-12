@@ -1,5 +1,17 @@
 # Group N - Financial Technology
 
+This website is a quick overview of how financial technology came to dominate and disrupt the industry with clever and quickly-advancing innovations. Go through the site with ease as the homepage delivers three main topics that delve deeper into the subject: how financial technology disrupted the industry, the history and evolution of financial technology, and an up-to-date overview of the services offered.
+
+This website was created as a partial fulfillment of the requirements in MMS142: Internet Technologies and Web Development by Group N’s members:
+
+Vanessa Tesing
+Ellenear Teleg
+Kassandra Tolentino
+Ezekiel Tinao
+Filmore Tiston
+Emmanuel Tolentino
+Jeram Nolan Tesoro
+
 Generated from the Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
 
 ![Forty Theme](assets/images/forty.jpg "Forty Theme")
