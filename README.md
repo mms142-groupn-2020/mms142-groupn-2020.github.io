@@ -4,13 +4,13 @@ This website is a quick overview of how financial technology came to dominate an
 
 This website was created as a partial fulfillment of the requirements in MMS142: Internet Technologies and Web Development by Group N’s members:
 
-Vanessa Tesing
-Ellenear Teleg
-Kassandra Tolentino
-Ezekiel Tinao
-Filmore Tiston
-Emmanuel Tolentino
-Jeram Nolan Tesoro
+Vanessa Tesing <br />
+Ellenear Teleg <br />
+Kassandra Tolentino <br />
+Ezekiel Tinao <br />
+Filmore Tiston <br />
+Emmanuel Tolentino <br />
+Jeram Nolan Tesoro 
 
 Generated from the Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
 
