@@ -17,9 +17,6 @@ Generated from the Jekyll version of the "Forty" theme by [HTML5 UP](https://htm
 ![Forty Theme](assets/images/forty.jpg "Forty Theme")
 
 # Credits
-
-Original README from HTML5 UP:
-
 ```
 Forty by HTML5 UP
 html5up.net | @ajlkn
@@ -29,10 +26,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
 Credits:
 
 	Demo Images:
-		Pexels (pexels.com)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
+		Unsplash (unsplash.com)
 
 	Other:
 		jQuery (jquery.com)
