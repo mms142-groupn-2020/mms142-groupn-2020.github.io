@@ -13,7 +13,7 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<p>Fintech has been around for quite some time now, and it is rapidly growing over the past few years, as seen on many of the technologies, platforms, and services that we use today. It is an innovative technology designed to compete with the brick-and-mortar financial industry and improve the facilitation of various monetary activities across multiple sectors and areas. There are many services made possible by fintech that fall under multiple sectors in the ecosystem of financial services.</p>
+		<p>Fintech has been around for quite some time now, and it is rapidly growing over the past few years, as seen on many of the technologies, platforms, and services that we use today. It is an innovative technology designed to compete with the brick-and-mortar financial services and improve the facilitation of a wide range of monetary activities across various sectors. There are many services made possible by fintech that fall under multiple areas in the ecosystem of financial services.</p>
 	</div>
 </section>
 
